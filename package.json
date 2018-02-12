@@ -2,7 +2,7 @@
   "name": "arsad",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://majidzeno.github.io/arsad",
+  "homepage": "http://majidzeno.github.io/arsad",
   "dependencies": {
     "axios": "^0.17.1",
     "google-map-react": "^0.29.0",
